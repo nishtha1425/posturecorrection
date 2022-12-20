@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+
+button {
+    appearance: none;
+    outline: 0;
+    background-color: rgb(152, 31, 212);
+    border: 0;
+    padding: 10px 15px;
+    color: #c9e8ec;
+    border-radius: 3px;
+    width: 250px;
+    cursor: pointer;
+    font-size: 18px;
+    transition-duration: 0.25s;
+  }
+  button:hover {
+    background-color: rgb(77, 6, 119);
+  }
+  #video{
+    text-align: center;
+  }
